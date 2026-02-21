@@ -29,6 +29,10 @@ http://cdn-s-lb2.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|afb7b739064445dea487bfa6ee02ab09:91627a6898723764fbf1e03f19b6ca71
 http://cdn-s-lb2.pluscdn.pl/ch/1454619/45/dash/c6981602/live.mpd
+#EXTINF:-1 tvg-id="PolsatSportPremium2.pl@SD" tvg-logo="" group-title="Sports",Polsat Sport Premium 2 (1080p) [Geo-blocked]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0e7abe8060df4ab785ceea28d110eb09:98d7dcf0fa72b28e6e4a9c24ae667eb0
+http://cdn-s-lb2.pluscdn.pl/ch/1459450/267/dash/c0858178/live.mpd
 #EXTINF:-1 tvg-id="Puls2.pl@SD" tvg-logo="https://i.imgur.com/EOnzPiZ.png" group-title="Undefined",Puls 2 (1080p)
 https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8
 #EXTINF:-1 tvg-id="RadiowaCzworka.pl@SD" tvg-logo="https://i.imgur.com/VAtxF7k.png" group-title="Entertainment",Radio CzwĂłrka (1080p)
@@ -99,4 +103,5 @@ https://stream.twoja.tv/ttv_hls/live.m3u8
 https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
 #EXTINF:-1 tvg-id="WPTV.pl@SD" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/NIbkrRsb2dvLW1pZ3JhdGVkL3dwLnBuZ5KVAmQAwsOVAgAowsM" group-title="Undefined",WP TV (1080p)
 https://liveovh011.cda.pl/P8IjbpepCvx7lF8FyJcdAQ/1755751084/2430238/enc109/wphdraw/wphdraw.m3u8
+
 
